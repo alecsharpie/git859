@@ -1,2 +1,2 @@
-def cleaner(string):
+def lowercase_string(string):
     return string.lower()
